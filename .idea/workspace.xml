@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="47f99c54-e68b-4dca-916f-2665f16467ea" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spinalCase.py" beforeDir="false" afterPath="$PROJECT_DIR$/spinalCase.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,8 +47,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.selectionSort">
-    <configuration name="countOne" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.pigLatin">
+    <configuration name="diff-arr" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -59,7 +60,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/countOne.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/diff-arr.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -68,7 +69,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="reverseString" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pigLatin" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,7 +81,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reverseString.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pigLatin.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.selectionSort" />
+        <item itemvalue="Python.pigLatin" />
         <item itemvalue="Python.spinalCase" />
+        <item itemvalue="Python.diff-arr" />
+        <item itemvalue="Python.selectionSort" />
         <item itemvalue="Python.titleCase" />
-        <item itemvalue="Python.reverseString" />
-        <item itemvalue="Python.countOne" />
       </list>
     </recent_temporary>
   </component>
