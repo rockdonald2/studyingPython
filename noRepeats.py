@@ -41,10 +41,10 @@ def noRepeats(str):
         while w < len(temp[k]) - 1:
             c = temp[k][w]
 
-            if (temp[k][w + 1] == c):
+            if temp[k][w + 1] == c:
                 repeat = True
 
-            if (repeat):
+            if repeat:
                 break
 
             w += 1
