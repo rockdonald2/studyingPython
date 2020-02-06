@@ -1,0 +1,40 @@
+2019-12-30 22:58:19,139 - DEBUG - Start of program
+2019-12-30 22:58:19,139 - DEBUG - Start of factorial(5)
+2019-12-30 22:58:19,139 - DEBUG - i is 1, total is 1
+2019-12-30 22:58:19,140 - DEBUG - i is 2, total is 2
+2019-12-30 22:58:19,140 - DEBUG - i is 3, total is 6
+2019-12-30 22:58:19,140 - DEBUG - i is 4, total is 24
+2019-12-30 22:58:19,140 - DEBUG - i is 5, total is 120
+2019-12-30 22:58:19,141 - DEBUG - Return value is 120
+2019-12-30 23:03:22,793 - DEBUG - Start of program
+2019-12-30 23:03:22,793 - DEBUG - Start of factorial(5)
+2019-12-30 23:03:22,793 - DEBUG - i is 1, total is 1
+2019-12-30 23:03:22,793 - DEBUG - i is 2, total is 2
+2019-12-30 23:03:22,793 - DEBUG - i is 3, total is 6
+2019-12-30 23:03:22,793 - DEBUG - i is 4, total is 24
+2019-12-30 23:03:22,794 - DEBUG - i is 5, total is 120
+2019-12-30 23:03:22,794 - DEBUG - Return value is 120
+2019-12-30 23:03:28,856 - DEBUG - Start of program
+2019-12-30 23:03:28,856 - DEBUG - Start of factorial(5)
+2019-12-30 23:03:28,856 - DEBUG - i is 1, total is 1
+2019-12-30 23:03:28,856 - DEBUG - i is 2, total is 2
+2019-12-30 23:03:28,856 - DEBUG - i is 3, total is 6
+2019-12-30 23:03:28,857 - DEBUG - i is 4, total is 24
+2019-12-30 23:03:28,857 - DEBUG - i is 5, total is 120
+2019-12-30 23:03:28,857 - DEBUG - Return value is 120
+2019-12-30 23:03:36,660 - DEBUG - Start of program
+2019-12-30 23:03:40,525 - DEBUG - Start of factorial(5)
+2019-12-30 23:03:40,525 - DEBUG - i is 1, total is 1
+2019-12-30 23:03:40,525 - DEBUG - i is 2, total is 2
+2019-12-30 23:03:40,525 - DEBUG - i is 3, total is 6
+2019-12-30 23:03:40,526 - DEBUG - i is 4, total is 24
+2019-12-30 23:03:40,526 - DEBUG - i is 5, total is 120
+2019-12-30 23:03:40,526 - DEBUG - Return value is 120
+2019-12-30 23:03:45,555 - DEBUG - Start of program
+2019-12-30 23:03:49,813 - DEBUG - Start of factorial(5)
+2019-12-30 23:03:54,673 - DEBUG - i is 1, total is 1
+2019-12-30 23:03:56,625 - DEBUG - i is 2, total is 2
+2019-12-30 23:03:57,727 - DEBUG - i is 3, total is 6
+2019-12-30 23:03:58,648 - DEBUG - i is 4, total is 24
+2019-12-30 23:03:59,612 - DEBUG - i is 5, total is 120
+2019-12-30 23:04:04,832 - DEBUG - Return value is 120
